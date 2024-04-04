@@ -28,7 +28,7 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles and of course meme loving person.
 
 - :mailbox: Reach out to me on  <div id="badges">
   <a href="https://www.linkedin.com/in/vikas-prajapati-986135203/">
