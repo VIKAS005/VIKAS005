@@ -9,10 +9,10 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div align="center">
+</div>
 </div>
    </a>
-<img src="https://komarev.com/ghpvc/?username=VIKAS005&style=flat-square&color=yellow" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=VIKAS005&style=flat-square&color=yellow" alt=""/>
    </a>
 </div>
 
