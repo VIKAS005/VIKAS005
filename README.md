@@ -1,8 +1,8 @@
- <div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVjYWMxb25wN2d1cXY4azljdzczZ2dwcnFwMWZ0c2RjaXR0bTViayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MRsnIYt2j53lYsQ80x/giphy.gif" width="400"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/vikas-prajapati-986135203/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
